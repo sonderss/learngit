@@ -7,3 +7,6 @@ Creating a new branch is quick and simple.
 
 dev add;
 dev2 add;
+
+你是不是傻啊.
+
